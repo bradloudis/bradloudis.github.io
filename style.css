@@ -1,5 +1,6 @@
 #RPOdates {
   float: right;
+  display: flex;
 }
 #OPdates {
   float: right;
