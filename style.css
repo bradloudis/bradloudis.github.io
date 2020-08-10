@@ -23,17 +23,21 @@ h2 {
 }
 
 #RPOsection {
-  padding: 15px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 #BFOsection {
-  padding: 15px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 #OPsection {
-  padding: 15px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 #NWSsection {
-  padding: 15px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
