@@ -12,3 +12,7 @@ body {
   border: 2px solid #000000;
   float: right;
 }
+
+h1 {
+  font-size: 30px;
+}
