@@ -2,3 +2,8 @@ body {
   font-family: 'Garamond', serif;
   background-color: #f2ece4;
 }
+
+#pic {
+  border: 2px solid #000000;
+  float: right;
+}
